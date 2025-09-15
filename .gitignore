@@ -1,0 +1,12 @@
+
+.venv/
+.env
+*.pkl
+*.keras
+*.h5
+
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
