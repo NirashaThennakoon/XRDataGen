@@ -101,7 +101,7 @@ Unreal communicates with Flask via HTTP calls, fetching real-time and predicted 
 ![Graph](docs/FINAL_XR_SCENE.png)
 
 - Campus 3D model environment
-![campus](docs/campus model.jpg)
+![campus](docs/campus_model.jpg)
 
 ## Tech Stack
 
